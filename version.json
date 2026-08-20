@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases",
+  "version": "1.1.0",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.1.0/1game_time_tracker.exe",
   "sha256": "",
-  "notes": "لا يوجد تحديث حاليًا"
+  "notes": "Added Friends, friend requests, shared game statistics, and a new application icon."
 }
