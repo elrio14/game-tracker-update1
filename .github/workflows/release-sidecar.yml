@@ -1,0 +1,43 @@
+name: Sidecar Release
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: write
+
+jobs:
+  publish-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check release asset
+        id: asset
+        shell: bash
+        run: |
+          if [ -f "release/app_track.exe" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            echo "release/app_track.exe was not found, so no release will be created."
+          fi
+
+      - name: Publish release
+        if: steps.asset.outputs.found == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            echo "Release $GITHUB_REF_NAME already exists; skipping."
+            exit 0
+          fi
+
+          gh release create "$GITHUB_REF_NAME" \
+            "release/app_track.exe#app_track.exe" \
+            --title "$GITHUB_REF_NAME" \
+            --generate-notes
