@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.5.1/1game_time_tracker.exe",
-  "sha256": "5f81ec8ad0ce751e39df0a82dcc7b03a200385cd7d62db7d00bb87d3e9ec2834",
-  "notes": "APP TRACKER 1.5.1 adds Arabic language support, secure friends chat with read receipts and message controls, improved Profile, Playbook and Music pages, smarter Library filters, and automatic live game detection."
+  "version": "1.6.0",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.6.0/1game_time_tracker.exe",
+  "sha256": "960f8b532296a5bd04530705ff13a6e93827d7129b00f65ad5a542219fae6537",
+  "notes": "APP TRACKER 1.6.0 adds Suggestions with image attachments and full details, unique usernames, password recovery, chat images, play invitations, Join Me requests, and an experimental free one-to-one voice call inside the app."
 }
