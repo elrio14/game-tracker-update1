@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.6.0/1game_time_tracker.exe",
-  "sha256": "960f8b532296a5bd04530705ff13a6e93827d7129b00f65ad5a542219fae6537",
-  "notes": "APP TRACKER 1.6.0 adds Suggestions with image attachments and full details, unique usernames, password recovery, chat images, play invitations, Join Me requests, and an experimental free one-to-one voice call inside the app."
+  "version": "1.6.1",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.6.1/1game_time_tracker.exe",
+  "sha256": "d3d667dd1ea377521cabb7b0dd7763a84751461d4fbaa958b06ac80cc0ca8bbf",
+  "notes": "APP TRACKER 1.6.1 improves password recovery, adds moderator suggestion management, and introduces a private Steam Activity section with current downloads, recent installs, recent updates, game artwork, sizes, and progress details."
 }
