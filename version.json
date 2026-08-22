@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.6.1/1game_time_tracker.exe",
-  "sha256": "d3d667dd1ea377521cabb7b0dd7763a84751461d4fbaa958b06ac80cc0ca8bbf",
-  "notes": "APP TRACKER 1.6.1 improves password recovery, adds moderator suggestion management, and introduces a private Steam Activity section with current downloads, recent installs, recent updates, game artwork, sizes, and progress details."
+  "version": "1.7.0",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.0/1game_time_tracker.exe",
+  "sha256": "eec901bdae7537756b9905dbebc3c58f4360cf31ffa63746d681a323da39fd16",
+  "notes": "APP TRACKER 1.7.0 introduces the Obsidian Pulse redesign, a collapsible sidebar, a richer gaming dashboard, cinematic Music Focus, a stable anchored Spotify timeline, artwork-first music stats, an independent Moderator Console, an upgraded Steam Activity view, Ctrl+K quick navigation, a new icon, and a branded launch screen."
 }
