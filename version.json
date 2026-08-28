@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.1/1game_time_tracker.exe",
-  "sha256": "fa1cf54cfa729b3fb6bf3d2238a9ce294a8ff0c9555698b71afdd717cbd08bb7",
-  "notes": "APP TRACKER 1.7.1 adds the new Notification Center and a synchronized startup sound that plays as the main window appears, while keeping the 1.7.0 Obsidian Pulse redesign and existing improvements."
+  "version": "1.7.2",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.2/1game_time_tracker.exe",
+  "sha256": "1bbb1ca70ccc08ad48f56d00b91f0c2bba67dbad9e9472d39a303d6a773f411e",
+  "notes": "APP TRACKER 1.7.2 fixes build configurations and updates the main executable, while keeping the Notification Center, synchronized startup sound, and the Obsidian Pulse redesign."
 }
