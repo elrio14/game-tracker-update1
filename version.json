@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.2/1game_time_tracker.exe",
-  "sha256": "1bbb1ca70ccc08ad48f56d00b91f0c2bba67dbad9e9472d39a303d6a773f411e",
-  "notes": "APP TRACKER 1.7.2 fixes build configurations and updates the main executable, while keeping the Notification Center, synchronized startup sound, and the Obsidian Pulse redesign."
+  "version": "1.7.3",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.3/1game_time_tracker.exe",
+  "sha256": "2a685b95c3b2d36808f8dc5c8a3a780fadb1d4afd2420f891cfd8d2f5e443db1",
+  "notes": "APP TRACKER 1.7.3 adds polished 10-point ratings for Library games, Spotify songs, and artists; Music-list deletion controls; and Spotify-only listening while preserving existing Spotify history."
 }
