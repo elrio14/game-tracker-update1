@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.3/1game_time_tracker.exe",
-  "sha256": "2a685b95c3b2d36808f8dc5c8a3a780fadb1d4afd2420f891cfd8d2f5e443db1",
-  "notes": "APP TRACKER 1.7.3 adds polished 10-point ratings for Library games, Spotify songs, and artists; Music-list deletion controls; and Spotify-only listening while preserving existing Spotify history."
+  "version": "1.7.4",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.4/1game_time_tracker.exe",
+  "sha256": "32bdb1f5145dd8d639b61c04399e31632682874d33aa4467b7c7b6fba9c0c6a9",
+  "notes": "APP TRACKER 1.7.4 improves Friends and social-service reliability, keeps friends visible when optional Supabase services fail, prevents overlapping refreshes, adds clearer social diagnostics, and includes build/test and Supabase migration fixes."
 }
