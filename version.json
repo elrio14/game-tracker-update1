@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.5/1game_time_tracker.exe",
-  "sha256": "f8cfdae46897f30e9137220ce01e594b4f52029f7b9bc27079d0ab4fe215df1c",
-  "notes": "APP TRACKER 1.7.5 fixes launching Epic Games titles through the Epic Games Launcher, while retaining the Friends and Supabase reliability improvements from 1.7.4."
+  "version": "1.7.6",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.6/1game_time_tracker.exe",
+  "sha256": "653f6ecc59b4600bf8b29a4b17d12b436f3bc9d8aba2ef8f7163eb2b9418089e",
+  "notes": "APP TRACKER 1.7.6 fixes playtime resetting to zero: the games registry is now written safely, rolling backups are kept, and any lost playtime is restored automatically on startup."
 }
