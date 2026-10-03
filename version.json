@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.6/1game_time_tracker.exe",
-  "sha256": "653f6ecc59b4600bf8b29a4b17d12b436f3bc9d8aba2ef8f7163eb2b9418089e",
-  "notes": "APP TRACKER 1.7.6 fixes playtime resetting to zero: the games registry is now written safely, rolling backups are kept, and any lost playtime is restored automatically on startup."
+  "version": "1.7.7",
+  "download_url": "https://github.com/elrio14/game-tracker-update1/releases/download/v1.7.7/1game_time_tracker.exe",
+  "sha256": "267a48c4b86fc135c29d3aff516162a54454820866b25bf3b524c95c54e85994",
+  "notes": "APP TRACKER 1.7.7 fixes playtime resetting to zero: playtime is rebuilt from saved sessions, the registry is written safely with rolling backups, and a single-instance guard prevents overwrites. Adds a per-game Game Report in the Journal."
 }
